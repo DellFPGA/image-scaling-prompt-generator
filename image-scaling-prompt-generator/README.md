@@ -1,4 +1,5 @@
 # Image Scaling & Prompt Generator
+REPO Role: image-scaling-prompt-generator	🎨 AI prompt builder for Stable Diffusion + LLMs
 
 🚀 A futuristic prompt-building toolkit for AI art creators using Stable Diffusion. This tool combines intuitive prompt building, category editing, local LLM integration, and safe prompt generation — all in a single script.
 
